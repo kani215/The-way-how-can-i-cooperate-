@@ -1,4 +1,4 @@
-# The-way-how-can-cooperate with other teamates in git 
+# The-way-how-can-i cooperate with other teamates in git 
 In This repository, i note some ways to cooperate with other programmers 
 
 1. install github desketop in github web page
